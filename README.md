@@ -15,7 +15,8 @@ It enables users to register, add items with images, view other users’ items, 
 - **Home Page** → Browse all items with search and filter options.  
 - **Add Item** → Upload a new item with **image preview (Base64)**, title, description, and owner info.  
 - **Item Details** → View detailed info of each item, including:  
-  - Owner details  
+  - Owner details
+  - User details  
   - Description and status  
   - Swap requests list  
   - Ability to send swap requests  
